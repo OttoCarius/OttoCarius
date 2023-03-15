@@ -63,8 +63,3 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i.gifer.com/1pXC.gif"  />
-</div>
-
-###
