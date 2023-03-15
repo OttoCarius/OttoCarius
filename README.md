@@ -21,15 +21,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OttoCarius&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OttoCarius&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
 ###
 
-div align="center"> 
-
-## 🏆GitHub Trophies
+<div align="center"> 
+  
+# # 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=OttoCarius&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/OttoCarius/count.svg?"  />
