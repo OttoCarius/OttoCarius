@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Andrew!<br>Front-end developer from Ukraine, Kyiv<br><br>My specialty is building web applications using HTML5/CSS3, JavaScript ES6+, React ( API, React-Router-dom, Redux-Toolkit, styled-components), React. I have experience building NodeJS back end.<br><br>🧠 Currently, I'm interested in learning something new and very useful. That's why I started learning Type-Script<br><br>👅 English level: Pre-Intermediate</h3>
+<h3 align="center">Hi 👋, I'm Andrew!<br>Front-end developer from Ukraine, Kyiv<br><br>My specialty is building web applications using HTML5/CSS3, JavaScript ES6+, React ( API, React-Router-dom, Redux-Toolkit, styled-components), React. I have experience building NodeJS back end.<br><br>🧠 Currently, I'm interested in learning something new and very useful. That's why I started learning TypeScript<br><br>👅 English level: Pre-Intermediate</h3>
 
 ###
 
