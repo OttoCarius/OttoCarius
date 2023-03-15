@@ -69,9 +69,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OttoCarius/OttoCarius/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
