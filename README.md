@@ -20,11 +20,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
 </div>
 
+
+
 ###
 
 <h3 align="center">I have experience in educational/home projects.<br>Passed the annual intensive on full-stack development. During my studies, I completed 9 projects (4 team and 5 individual). I was a team leader on one project, a scrum master on another, and a developer on all the others.<br>Technologies such as: HTML5, CSS, SAAS, JavaScript, React, redux-toolkit, Figma, git, vs-code, REST API, axios, mongoDB, node.js, express are used.<br><br>I wish  to find a dream job/company, start developing in this direction and achieve success and new victories.</h3>
 
 ###
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=OttoCarius" height="150" alt="stats graph"  />
@@ -43,6 +48,7 @@
 </div>
 
 ###
+
 
 <h2 align="center">My course completion certificate https://ibb.co/qRpdTHP</h2>
 
