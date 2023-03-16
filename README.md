@@ -75,3 +75,16 @@
 <div align="center">
   <img height="300" src="https://i.gifer.com/1pXC.gif"  />
 </div>
+
+
+
+
+<div align="center">
+  <img height="300" src="https://i.gifer.com/1pXC.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/OttoCarius/OttoCarius/blob/output/snake.svg" alt="Snake animation" />
+
+###
