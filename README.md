@@ -53,9 +53,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://i.gifer.com/8DDl.gif"  />
-</div>
 
 ###
 
